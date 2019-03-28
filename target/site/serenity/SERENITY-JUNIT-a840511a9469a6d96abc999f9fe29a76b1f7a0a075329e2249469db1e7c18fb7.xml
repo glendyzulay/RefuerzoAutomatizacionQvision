@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Seleccionar un día a la semana de la lista desplegable y verificar que el día seleccionado corresponda al enviado" skipped="0" tests="1" time="13.52" timestamp="2019-03-27 11:52:08"><testcase name="Verificar que el día enviado corresponda al día seleccionado"/></testsuite>

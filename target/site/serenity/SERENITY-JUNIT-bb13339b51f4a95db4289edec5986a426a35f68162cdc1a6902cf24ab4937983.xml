@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Seleccionar un dato de la tabla al hacer uso de los filtros y verificar que el dato filtrado corresponde" skipped="0" tests="1" time="16.14" timestamp="2019-03-28 02:08:24"><testcase name="Verificar que el filtro aplicado no arroja resultados"/></testsuite>
