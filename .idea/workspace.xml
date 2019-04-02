@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c12c8bcd-5d0a-490c-ba9a-ffb82956ebe0" name="Default Changelist" comment="" />
+    <list default="true" id="c12c8bcd-5d0a-490c-ba9a-ffb82956ebe0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/CategoriaAlertaModalPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/CategoriaAlertaModalPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/IngresoMenuPrincipalSecundarioPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/IngresoMenuPrincipalSecundarioPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaAlertaModalStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaAlertaModalStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaBotonSeleccionStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaBotonSeleccionStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaCajaSeleccionStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaCajaSeleccionStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaCajaTextoStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaCajaTextoStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaJQueryStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaJQueryStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaListaDesplegableStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaListaDesplegableStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaTablaStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaTablaStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/IngresoMenuPrincipalSecundarioStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/IngresoMenuPrincipalSecundarioStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/8b0168af65cf52c6671b57860cfe687722fa40d63ddf8e42d8f47575c943e42b.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/8b0168af65cf52c6671b57860cfe687722fa40d63ddf8e42d8f47575c943e42b.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/8b0168af65cf52c6671b57860cfe687722fa40d63ddf8e42d8f47575c943e42b.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/8b0168af65cf52c6671b57860cfe687722fa40d63ddf8e42d8f47575c943e42b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/8b0168af65cf52c6671b57860cfe687722fa40d63ddf8e42d8f47575c943e42b_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/8b0168af65cf52c6671b57860cfe687722fa40d63ddf8e42d8f47575c943e42b_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-8b0168af65cf52c6671b57860cfe687722fa40d63ddf8e42d8f47575c943e42b.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-8b0168af65cf52c6671b57860cfe687722fa40d63ddf8e42d8f47575c943e42b.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -20,15 +40,18 @@
     <session id="-762951339">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="feature" value="22" />
           <entry key="gradle" value="2" />
-          <entry key="java" value="157" />
+          <entry key="java" value="165" />
           <entry key="properties" value="1" />
         </counts>
       </usages-collector>
@@ -36,7 +59,7 @@
         <counts>
           <entry key="Cucumber" value="22" />
           <entry key="Groovy" value="2" />
-          <entry key="JAVA" value="157" />
+          <entry key="JAVA" value="165" />
           <entry key="Properties" value="1" />
         </counts>
       </usages-collector>
@@ -45,59 +68,26 @@
           <entry key="dummy" value="95" />
           <entry key="feature" value="1627" />
           <entry key="gradle" value="96" />
-          <entry key="java" value="7890" />
+          <entry key="java" value="7928" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Cucumber" value="1627" />
           <entry key="Groovy" value="96" />
-          <entry key="JAVA" value="7890" />
+          <entry key="JAVA" value="7928" />
           <entry key="PLAIN_TEXT" value="95" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/features/practica_automatizacion/categoria_alertas_modales.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/co/com/qvision/ejerciciofinal/runners/ejercicioFinal/CategoriaAlertaModalRunner.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/definitions/practica_automatizacion/CategoriaAlertaModalDefinition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaAlertaModalStep.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+              <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,8 +98,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaBotonSeleccionStep.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="159" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="159" />
+            <state relative-caret-position="272">
+              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,17 +108,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/CategoriaAlertaModalPage.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaCajaSeleccionStep.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+            <state relative-caret-position="187">
+              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaCajaTextoStep.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaJQueryStep.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#504#505#0" expanded="true" />
-                <element signature="e#790#791#0" expanded="true" />
-                <element signature="e#816#817#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaListaDesplegableStep.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -136,8 +149,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaTablaStep.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="28" column="56" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="62" />
+            <state relative-caret-position="425">
+              <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -146,10 +159,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/definitions/practica_automatizacion/CategoriaBotonSeleccionDefinition.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/IngresoMenuPrincipalSecundarioStep.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="19" column="3" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="19" selection-end-column="3" />
+            <state relative-caret-position="357">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/CategoriaAlertaModalPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="105" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="105" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -158,22 +180,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/co/com/qvision/ejerciciofinal/runners/ejercicioFinal/CategoriaBotonSeleccionRunner.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/IngresoMenuPrincipalSecundarioPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="6" selection-end-line="10" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/definitions/practica_automatizacion/IngresoMenuPrincipalSecundarioDefinition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            <state relative-caret-position="153">
+              <caret line="9" column="66" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -189,6 +199,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -578,27 +591,21 @@
         <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/definitions/practica_automatizacion/CategoriaCajaSeleccionDefinition.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/definitions/practica_automatizacion/IngresoMenuDefinition.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/IngresarMenuPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaCajaSeleccionStep.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/IngresoMenuPrincipalPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/IngresoMenuPrincipalStep.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/definitions/practica_automatizacion/IngresoMenuPrincipalDefinition.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/definitions/practica_automatizacion/IngresoMenuPrincipalSecundarioDefinition.java" />
         <option value="$PROJECT_DIR$/src/test/resources/features/practica_automatizacion/categoria_caja_chequeo_demo.feature" />
         <option value="$PROJECT_DIR$/src/test/resources/features/practica_automatizacion/categoria_boton_seleccion.feature" />
-        <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/IngresoMenuPrincipalSecundarioStep.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/IngresoMenuPrincipalSecundarioPage.java" />
         <option value="$PROJECT_DIR$/src/test/resources/features/practica_automatizacion/categoria_caja_texto.feature" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/definitions/practica_automatizacion/CategoriaFormularioCajasTextoDefinition.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaCajaTextoStep.java" />
         <option value="$PROJECT_DIR$/src/test/java/co/com/qvision/ejerciciofinal/runners/ejercicioFinal/CategoriaCajaTextoRunner.java" />
         <option value="$PROJECT_DIR$/src/test/java/co/com/qvision/ejerciciofinal/runners/ejercicioFinal/CategoriaSeleccionListaDesplegableRunner.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/CategoriaCajaSeleccionPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/definitions/practica_automatizacion/CategoriaBotonSeleccionDefinition.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaBotonSeleccionStep.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/CategoriaBotonSeleccionPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/definitions/practica_automatizacion/CategoriaListaDesplegableDefinition.java" />
         <option value="$PROJECT_DIR$/src/test/resources/features/practica_automatizacion/categoria_lista_desplegable.feature" />
-        <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaListaDesplegableStep.java" />
         <option value="$PROJECT_DIR$/src/test/resources/features/practica_automatizacion/categoria_jquery.feature" />
         <option value="$PROJECT_DIR$/src/test/java/co/com/qvision/ejerciciofinal/runners/ejercicioFinal/CategoriaJQueryRunner.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/CategoriaListaDesplegablePage.java" />
@@ -606,17 +613,23 @@
         <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/utils/Utilidades.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/definitions/practica_automatizacion/CategoriaJQueryDefinition.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/CategoriaJQueryPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaJQueryStep.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/definitions/practica_automatizacion/CategoriaTablaDefinition.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/CategoriaTablaPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaTablaStep.java" />
         <option value="$PROJECT_DIR$/src/test/resources/features/practica_automatizacion/categoria_tabla.feature" />
         <option value="$PROJECT_DIR$/src/test/java/co/com/qvision/ejerciciofinal/runners/ejercicioFinal/CategoriaTableRunner.java" />
         <option value="$PROJECT_DIR$/src/test/resources/features/practica_automatizacion/categoria_alertas_modales.feature" />
         <option value="$PROJECT_DIR$/src/test/java/co/com/qvision/ejerciciofinal/runners/ejercicioFinal/CategoriaAlertasModalesRunner.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/definitions/practica_automatizacion/CategoriaAlertaModalDefinition.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/CategoriaAlertaModalPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaAlertaModalStep.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaBotonSeleccionStep.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaCajaSeleccionStep.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaCajaTextoStep.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaJQueryStep.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaListaDesplegableStep.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaTablaStep.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/IngresoMenuPrincipalSecundarioStep.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/CategoriaAlertaModalPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/IngresoMenuPrincipalSecundarioPage.java" />
       </list>
     </option>
   </component>
@@ -625,6 +638,7 @@
     <option name="width" value="1380" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -745,7 +759,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553802472984" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554215359502" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -870,9 +884,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CategoriaJQueryRunner - 2019.03.28 at 12h 47m 27s.xml">
-      <configuration name="CategoriaJQueryRunner" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CategoriaTableRunner - 2019.03.28 at 13h 00m 27s.xml">
       <configuration name="CategoriaTableRunner" configurationId="JUnit" />
     </history-entry>
@@ -900,26 +911,30 @@
     <history-entry file="CategoriaAlertaModalRunner - 2019.03.28 at 14h 43m 42s.xml">
       <configuration name="CategoriaAlertaModalRunner" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CategoriaAlertaModalRunner - 2019.03.29 at 14h 23m 18s.xml">
+      <configuration name="CategoriaAlertaModalRunner" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1380" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.3090909" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.3181818" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3298791" />
       <window_info anchor="bottom" id="Messages" order="1" weight="0.3298791" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Build" order="4" weight="0.3298791" />
       <window_info anchor="bottom" id="SonarLint" order="5" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.3298791" />
-      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.328152" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.328152" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.39896372" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -943,13 +958,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaBotonSeleccionStep.java</url>
-          <line>11</line>
+          <line>13</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaBotonSeleccionStep.java</url>
-          <line>15</line>
+          <line>18</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
@@ -961,13 +976,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaJQueryStep.java</url>
-          <line>25</line>
+          <line>28</line>
           <properties />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaTablaStep.java</url>
-          <line>30</line>
+          <line>34</line>
           <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
@@ -1024,16 +1039,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.141.59/8e9423038552821844ba5f7713cc4c1e6d9835b7/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/By.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="91" selection-start-line="91" selection-end-line="91" />
-          <folding>
-            <element signature="e#3221#3222#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/features/practica_automatizacion/categoria_boton_seleccion.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1059,9 +1064,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1125,9 +1127,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1135,9 +1134,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
           <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1160,23 +1156,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaCajaTextoStep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="54" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/CategoriaCajaTextoPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1187,25 +1170,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/IngresoMenuPrincipalSecundarioPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/CategoriaListaDesplegablePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#701#702#0" expanded="true" />
-            <element signature="e#744#745#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1213,9 +1181,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1237,10 +1202,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="41" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="e#2172#2173#0" expanded="true" />
-            <element signature="e#2199#2200#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1248,9 +1209,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1261,23 +1219,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaListaDesplegableStep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="18" column="110" selection-start-line="18" selection-start-column="110" selection-end-line="18" selection-end-column="110" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/CategoriaJQueryPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="24" column="35" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1285,19 +1230,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/IngresoMenuPrincipalSecundarioStep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1317,21 +1249,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
           <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#923#924#0" expanded="true" />
-            <element signature="e#958#959#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaJQueryStep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="25" column="140" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="140" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1339,9 +1256,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="96" selection-start-line="8" selection-start-column="96" selection-end-line="8" selection-end-column="96" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1349,9 +1263,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" selection-start-line="6" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1359,9 +1270,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1369,9 +1277,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1389,20 +1294,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/definitions/practica_automatizacion/IngresoMenuPrincipalSecundarioDefinition.java">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/practica_automatizacion/categoria_alertas_modales.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/co/com/qvision/ejerciciofinal/runners/ejercicioFinal/CategoriaBotonSeleccionRunner.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/definitions/practica_automatizacion/CategoriaAlertaModalDefinition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="6" selection-end-line="10" selection-end-column="1" />
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1411,52 +1313,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/definitions/practica_automatizacion/CategoriaBotonSeleccionDefinition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="19" column="3" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="19" selection-end-column="3" />
+        <state relative-caret-position="272">
+          <caret line="19" column="3" selection-start-line="11" selection-start-column="2" selection-end-line="19" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/definitions/practica_automatizacion/CategoriaAlertaModalDefinition.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/co/com/qvision/ejerciciofinal/runners/ejercicioFinal/CategoriaBotonSeleccionRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        <state relative-caret-position="136">
+          <caret line="10" column="1" selection-start-line="6" selection-end-line="10" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaTablaStep.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/definitions/practica_automatizacion/IngresoMenuPrincipalSecundarioDefinition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="28" column="56" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/CategoriaAlertaModalPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#790#791#0" expanded="true" />
-            <element signature="e#816#817#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaBotonSeleccionStep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="159" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="159" />
+        <state relative-caret-position="170">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1465,8 +1343,86 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaAlertaModalStep.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        <state relative-caret-position="327">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaBotonSeleccionStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaCajaSeleccionStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaCajaTextoStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaJQueryStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaListaDesplegableStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/CategoriaTablaStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/steps/practica_automatizacion/IngresoMenuPrincipalSecundarioStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/CategoriaAlertaModalPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="105" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="105" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/qvision/pages/practica_automatizacion/IngresoMenuPrincipalSecundarioPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="66" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1476,17 +1432,10 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/co/com/qvision/ejerciciofinal/runners/ejercicioFinal/CategoriaAlertaModalRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/practica_automatizacion/categoria_alertas_modales.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
         </state>
       </provider>
     </entry>

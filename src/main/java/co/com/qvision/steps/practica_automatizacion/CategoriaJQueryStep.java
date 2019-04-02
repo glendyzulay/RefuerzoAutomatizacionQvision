@@ -3,6 +3,7 @@ package co.com.qvision.steps.practica_automatizacion;
 import co.com.qvision.pages.practica_automatizacion.CategoriaJQueryPage;
 import java.util.ArrayList;
 import java.util.List;
+import net.thucydides.core.annotations.Step;
 import org.fluentlenium.core.annotation.Page;
 import org.hamcrest.MatcherAssert;
 
@@ -12,11 +13,13 @@ public class CategoriaJQueryStep {
 
   private String cadenaEstados=null;
 
+  @Step
   public void seleccionarEstados(String estados){
     cadenaEstados = estados;
     categoriaJQueryPage.seleccionarMultiplesEstados(estados);
   }
 
+  @Step
   public void verificarEstadosSeleccionados(){
     List<String> listadoEstadosSeleccionados = new ArrayList<>();
     listadoEstadosSeleccionados = categoriaJQueryPage.verificarEstadosSeleccionados();

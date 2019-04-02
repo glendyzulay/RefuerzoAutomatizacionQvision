@@ -1,0 +1,4 @@
+
+Ysquid:S1854)";Remove this useless assignment to local variable "mensaje".(ืบฃภ8แÝย’-
+squid:S1488;"aImmediately return this expression instead of assigning it to the temporary variable "resultado".(ชฬ๙ำ8แÝย’-
+e$squid:AssignmentInSubExpressionCheck)".Extract the assignment out of this expression.(ืบฃภ8แÝย’-

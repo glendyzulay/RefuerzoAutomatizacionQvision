@@ -9,7 +9,7 @@ import org.openqa.selenium.By;
 @DefaultUrl("https://www.seleniumeasy.com/test/")
 public class IngresoMenuPrincipalSecundarioPage extends PageObject {
 
-  @FindBy(xpath = "//*[@id='navbar-brand-centered']")
+  @FindBy(id = "navbar-brand-centered")
   private WebElementFacade contenedorMenu;
 
   public void seleccionarMenuPrincipal(String nombreMenuPrincipal){
